@@ -4,6 +4,7 @@
 #include <variant>
 #include <vector>
 #include <string>
+#include <cstdint>
 
 struct Tracer;
 
